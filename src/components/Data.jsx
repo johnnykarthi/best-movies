@@ -31,6 +31,32 @@ export const data = {
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            genreName: 'Love',
+                            movies: [
+                                {
+                                    movieName:'Priyamanavale',
+                                    img:'https://images-na.ssl-images-amazon.com/images/S/pv-target-images/13d1b4b0f4667cc58dc3bd8eed423d393a56da6543bbec82e6dde5f4aa771ea8._UY500_UX667_RI_TTW_.jpg',
+                                    censor:'U',
+                                    year:'2000',
+                                    genre:'Romance/Drama',
+                                    duration:'2h 49m',
+                                    IMDb:'7.5',
+                                    toi:'3.5',
+                                    story:"Vijay has no faith in marriage. However, on his father's insistence, he marries Priya but lays down a condition wherein at the end of the year he will decide whether to continue their marriage or not.",
+                                    dir:'K. Selvabharathi',
+                                    music:'S. A. Rajkumar',
+                                    ott:[
+                                        {
+                                            img:'https://play-lh.googleusercontent.com/jFi2iC10wQJ42gu-DO2CMeIcN3qcmNQHtY5EBT_wtp4jCIozS4n3Q9pA7ZloDUGHHw',
+                                            ottName:'Sun NXT',
+                                            desc:'Subscription',
+                                            link:'https://www.sunnxt.com/tamil-movie-priyamanavale-2000/detail/8546'
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
